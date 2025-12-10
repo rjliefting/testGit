@@ -1,10 +1,5 @@
 1. make sure the repository is cloned locally, and make sure git is directed to the correct path (for example: "c:/users/pinda/testGit")
 
-<<<<<<< HEAD
-still very well although different
-
-good luck tomorrow!
-=======
 2. git status to check if all is good
 
 3. use notepad or visual studio or whatever to make changes to file
@@ -16,4 +11,5 @@ good luck tomorrow!
 6. git push
 
 done
->>>>>>> daa130b2bd59da845aa7ff4835f93f2aaaf5bd29
+
+good luck tomorrow!
